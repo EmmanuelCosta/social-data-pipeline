@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.Python
+venv/
+.env
+
+# Docker
+pgdata/ # Pasta de persistência do PostgreSQL
+
+# Logs
+*.log
